@@ -2,6 +2,9 @@ fastapi
 uvicorn
 python-dotenv
 langchain
+langchain-community
 sentence-transformers
 faiss-cpu
 openai
+torch
+torchvision
